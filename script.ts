@@ -21,6 +21,7 @@ toDataURL(location.href)
     S.width = '480px'
     S.maxWidth = '100%'
     S.aspectRatio = '1'
+    S.borderRadius = '5%'
     i.src = url
     w.appendChild(i)
     document.body.appendChild(w)
