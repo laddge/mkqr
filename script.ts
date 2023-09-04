@@ -18,7 +18,7 @@ toDataURL(location.href)
     }
     const i = document.createElement('img')
     const S = i.style
-    S.width = '480px'
+    S.width = '320px'
     S.maxWidth = '100%'
     S.aspectRatio = '1'
     S.borderRadius = '5%'
